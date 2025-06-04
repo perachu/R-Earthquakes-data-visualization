@@ -1,2 +1,2 @@
 # R-Earthquakes-data-visualization
-Using ggplot2 in R to visualize data in layers 
+Using ggplot2 in R to visualize data for multi layers 
