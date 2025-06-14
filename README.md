@@ -1,5 +1,6 @@
 # R-Earthquakes-data-visualization
-### Using tidyverse and ggplot2 in R to visualize data for multi layers 
+### Using dplyr and ggplot2 in R to visualize data in multi layers
+### Work steps of this project
 
 1) Import and clean our main dataset(Earthquakes in Southeast asia)
 2) Import World map data and prepare country label(centroid calculation)
